@@ -15,6 +15,9 @@ This measure has 60 news information items.
 
 News Information items are randomly ordered. 
 
+## Stimuli Question Text
+<img src"https://githubusercontent.com/caddickzac/MisinformationSusceptibilityAndSleep/main/Measures/NewsTaskStimuli/StimuliText/NewsItems.png" width="50%>
+
 ## Stimuli
 
 ### Fake News: Covid-19
@@ -211,5 +214,15 @@ RN_TBL_16<br>
 RN_TBL_17<br>
 <img src="https://raw.githubusercontent.com/caddickzac/MisinformationSusceptibilityAndSleep/main/Measures/NewsTaskStimuli/RealNews-TheBigLie/RN_TBL_17.png" width="50%">
 
+### Attention Check Questions
 
+AC_01<br>
+<img src"https://githubusercontent.com/caddickzac/MisinformationSusceptibilityAndSleep/main/Measures/NewsTaskStimuli/AttentionCheck/AC01.png" width="50%>
+
+AC_02<br>
+<img src"https://githubusercontent.com/caddickzac/MisinformationSusceptibilityAndSleep/main/Measures/NewsTaskStimuli/AttentionCheck/AC02.png" width="50%>
+
+### Attention Check Question Text 
+<img src"https://githubusercontent.com/caddickzac/MisinformationSusceptibilityAndSleep/main/Measures/NewsTaskStimuli/StimuliText/AC_Items.png" width="50%>
+Note: The order of the "100" and the "0" answers are flipped across the two attention check questions. 
 
