@@ -19,7 +19,9 @@ News Information items are randomly ordered.
 
 ### Fake News: Covid
 
-![FN_C_01](https://raw.githubusercontent.com/caddickzac/MisinformationSusceptibilityAndSleep/main/Measures/NewsTaskStimuli/FakeNews-Covid/FN_C_01.png)
-
+FN_C_01
 <img src="https://raw.githubusercontent.com/caddickzac/MisinformationSusceptibilityAndSleep/main/Measures/NewsTaskStimuli/FakeNews-Covid/FN_C_01.png" width="50%" alt="Optional Image Alt Text">
+
+FN_C_02
+<img src="https://raw.githubusercontent.com/caddickzac/MisinformationSusceptibilityAndSleep/main/Measures/NewsTaskStimuli/FakeNews-Covid/FN_C_02.png" width="50%" alt="Optional Image Alt Text">
 
