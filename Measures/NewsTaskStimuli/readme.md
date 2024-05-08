@@ -66,9 +66,51 @@ FN_C_15<br>
 
 ### Fake News: "The Big Lie"
 
+### Fake News: "The Big Lie"
+
 FN_TBL_01<br>
 <img src="https://raw.githubusercontent.com/caddickzac/MisinformationSusceptibilityAndSleep/main/Measures/NewsTaskStimuli/FakeNews-TheBigLie/FN_TBL_01.png" width="50%">
 
 FN_TBL_02<br>
 <img src="https://raw.githubusercontent.com/caddickzac/MisinformationSusceptibilityAndSleep/main/Measures/NewsTaskStimuli/FakeNews-TheBigLie/FN_TBL_02.png" width="50%">
+
+FN_TBL_03<br>
+<img src="https://raw.githubusercontent.com/caddickzac/MisinformationSusceptibilityAndSleep/main/Measures/NewsTaskStimuli/FakeNews-TheBigLie/FN_TBL_03.png" width="50%">
+
+FN_TBL_04<br>
+<img src="https://raw.githubusercontent.com/caddickzac/MisinformationSusceptibilityAndSleep/main/Measures/NewsTaskStimuli/FakeNews-TheBigLie/FN_TBL_04.png" width="50%">
+
+FN_TBL_05<br>
+<img src="https://raw.githubusercontent.com/caddickzac/MisinformationSusceptibilityAndSleep/main/Measures/NewsTaskStimuli/FakeNews-TheBigLie/FN_TBL_05.png" width="50%">
+
+FN_TBL_06<br>
+<img src="https://raw.githubusercontent.com/caddickzac/MisinformationSusceptibilityAndSleep/main/Measures/NewsTaskStimuli/FakeNews-TheBigLie/FN_TBL_06.png" width="50%">
+
+FN_TBL_07<br>
+<img src="https://raw.githubusercontent.com/caddickzac/MisinformationSusceptibilityAndSleep/main/Measures/NewsTaskStimuli/FakeNews-TheBigLie/FN_TBL_07.png" width="50%">
+
+FN_TBL_08<br>
+<img src="https://raw.githubusercontent.com/caddickzac/MisinformationSusceptibilityAndSleep/main/Measures/NewsTaskStimuli/FakeNews-TheBigLie/FN_TBL_08.png" width="50%">
+
+FN_TBL_09<br>
+<img src="https://raw.githubusercontent.com/caddickzac/MisinformationSusceptibilityAndSleep/main/Measures/NewsTaskStimuli/FakeNews-TheBigLie/FN_TBL_09.png" width="50%">
+
+FN_TBL_10<br>
+<img src="https://raw.githubusercontent.com/caddickzac/MisinformationSusceptibilityAndSleep/main/Measures/NewsTaskStimuli/FakeNews-TheBigLie/FN_TBL_10.png" width="50%">
+
+FN_TBL_11<br>
+<img src="https://raw.githubusercontent.com/caddickzac/MisinformationSusceptibilityAndSleep/main/Measures/NewsTaskStimuli/FakeNews-TheBigLie/FN_TBL_11.png" width="50%">
+
+FN_TBL_12<br>
+<img src="https://raw.githubusercontent.com/caddickzac/MisinformationSusceptibilityAndSleep/main/Measures/NewsTaskStimuli/FakeNews-TheBigLie/FN_TBL_12.png" width="50%">
+
+FN_TBL_13<br>
+<img src="https://raw.githubusercontent.com/caddickzac/MisinformationSusceptibilityAndSleep/main/Measures/NewsTaskStimuli/FakeNews-TheBigLie/FN_TBL_13.png" width="50%">
+
+FN_TBL_14<br>
+<img src="https://raw.githubusercontent.com/caddickzac/MisinformationSusceptibilityAndSleep/main/Measures/NewsTaskStimuli/FakeNews-TheBigLie/FN_TBL_14.png" width="50%">
+
+FN_TBL_15<br>
+<img src="https://raw.githubusercontent.com/caddickzac/MisinformationSusceptibilityAndSleep/main/Measures/NewsTaskStimuli/FakeNews-TheBigLie/FN_TBL_15.png" width="50%">
+
 
