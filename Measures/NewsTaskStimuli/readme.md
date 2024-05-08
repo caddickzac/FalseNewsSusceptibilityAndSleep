@@ -21,5 +21,5 @@ News Information items are randomly ordered.
 
 ![FN_C_01](https://raw.githubusercontent.com/caddickzac/MisinformationSusceptibilityAndSleep/main/Measures/NewsTaskStimuli/FakeNews-Covid/FN_C_01.png)
 
-![Figure 1](Figures%20and%20Tables/Figure%201.png?raw=true)
-Figures%20and%20Tables/Figure%201.png
+<img src="https://raw.githubusercontent.com/caddickzac/MisinformationSusceptibilityAndSleep/main/Measures/NewsTaskStimuli/FakeNews-Covid/FN_C_01.png" width="50%" alt="Optional Image Alt Text">
+
