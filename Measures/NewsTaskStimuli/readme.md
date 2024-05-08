@@ -17,7 +17,7 @@ News Information items are randomly ordered.
 
 ## Stimuli
 
-### Fake News: Covid
+### Fake News: Covid-19
 
 FN_C_01<br>
 <img src="https://raw.githubusercontent.com/caddickzac/MisinformationSusceptibilityAndSleep/main/Measures/NewsTaskStimuli/FakeNews-Covid/FN_C_01.png" width="50%">
@@ -66,8 +66,6 @@ FN_C_15<br>
 
 ### Fake News: "The Big Lie"
 
-### Fake News: "The Big Lie"
-
 FN_TBL_01<br>
 <img src="https://raw.githubusercontent.com/caddickzac/MisinformationSusceptibilityAndSleep/main/Measures/NewsTaskStimuli/FakeNews-TheBigLie/FN_TBL_01.png" width="50%">
 
@@ -112,5 +110,100 @@ FN_TBL_14<br>
 
 FN_TBL_15<br>
 <img src="https://raw.githubusercontent.com/caddickzac/MisinformationSusceptibilityAndSleep/main/Measures/NewsTaskStimuli/FakeNews-TheBigLie/FN_TBL_15.png" width="50%">
+
+### Real News: "Covid"
+
+RN_C_01<br>
+<img src="https://raw.githubusercontent.com/caddickzac/MisinformationSusceptibilityAndSleep/main/Measures/NewsTaskStimuli/RealNews-Covid/RN_C_01.png" width="50%">
+
+RN_C_02<br>
+<img src="https://raw.githubusercontent.com/caddickzac/MisinformationSusceptibilityAndSleep/main/Measures/NewsTaskStimuli/RealNews-Covid/RN_C_02.png" width="50%">
+
+RN_C_03<br>
+<img src="https://raw.githubusercontent.com/caddickzac/MisinformationSusceptibilityAndSleep/main/Measures/NewsTaskStimuli/RealNews-Covid/RN_C_03.png" width="50%">
+
+RN_C_04<br>
+<img src="https://raw.githubusercontent.com/caddickzac/MisinformationSusceptibilityAndSleep/main/Measures/NewsTaskStimuli/RealNews-Covid/RN_C_04.png" width="50%">
+
+RN_C_05<br>
+<img src="https://raw.githubusercontent.com/caddickzac/MisinformationSusceptibilityAndSleep/main/Measures/NewsTaskStimuli/RealNews-Covid/RN_C_05.png" width="50%">
+
+RN_C_06<br>
+<img src="https://raw.githubusercontent.com/caddickzac/MisinformationSusceptibilityAndSleep/main/Measures/NewsTaskStimuli/RealNews-Covid/RN_C_06.png" width="50%">
+
+RN_C_07<br>
+<img src="https://raw.githubusercontent.com/caddickzac/MisinformationSusceptibilityAndSleep/main/Measures/NewsTaskStimuli/RealNews-Covid/RN_C_07.png" width="50%">
+
+RN_C_08<br>
+<img src="https://raw.githubusercontent.com/caddickzac/MisinformationSusceptibilityAndSleep/main/Measures/NewsTaskStimuli/RealNews-Covid/RN_C_08.png" width="50%">
+
+RN_C_09<br>
+<img src="https://raw.githubusercontent.com/caddickzac/MisinformationSusceptibilityAndSleep/main/Measures/NewsTaskStimuli/RealNews-Covid/RN_C_09.png" width="50%">
+
+RN_C_10<br>
+<img src="https://raw.githubusercontent.com/caddickzac/MisinformationSusceptibilityAndSleep/main/Measures/NewsTaskStimuli/RealNews-Covid/RN_C_10.png" width="50%">
+
+RN_C_11<br>
+<img src="https://raw.githubusercontent.com/caddickzac/MisinformationSusceptibilityAndSleep/main/Measures/NewsTaskStimuli/RealNews-Covid/RN_C_11.png" width="50%">
+
+RN_C_12<br>
+<img src="https://raw.githubusercontent.com/caddickzac/MisinformationSusceptibilityAndSleep/main/Measures/NewsTaskStimuli/RealNews-Covid/RN_C_12.png" width="50%">
+
+RN_C_13<br>
+<img src="https://raw.githubusercontent.com/caddickzac/MisinformationSusceptibilityAndSleep/main/Measures/NewsTaskStimuli/RealNews-Covid/RN_C_13.png" width="50%">
+
+RN_C_14<br>
+<img src="https://raw.githubusercontent.com/caddickzac/MisinformationSusceptibilityAndSleep/main/Measures/NewsTaskStimuli/RealNews-Covid/RN_C_14.png" width="50%">
+
+RN_C_15<br>
+<img src="https://raw.githubusercontent.com/caddickzac/MisinformationSusceptibilityAndSleep/main/Measures/NewsTaskStimuli/RealNews-Covid/RN_C_15.png" width="50%">
+
+### Real News: "The Big Lie"
+
+RN_TBL_01<br>
+<img src="https://raw.githubusercontent.com/caddickzac/MisinformationSusceptibilityAndSleep/main/Measures/NewsTaskStimuli/RealNews-TheBigLie/RN_TBL_01.png" width="50%">
+
+RN_TBL_02<br>
+<img src="https://raw.githubusercontent.com/caddickzac/MisinformationSusceptibilityAndSleep/main/Measures/NewsTaskStimuli/RealNews-TheBigLie/RN_TBL_02.png" width="50%">
+
+RN_TBL_03<br>
+<img src="https://raw.githubusercontent.com/caddickzac/MisinformationSusceptibilityAndSleep/main/Measures/NewsTaskStimuli/RealNews-TheBigLie/RN_TBL_03.png" width="50%">
+
+RN_TBL_04<br>
+<img src="https://raw.githubusercontent.com/caddickzac/MisinformationSusceptibilityAndSleep/main/Measures/NewsTaskStimuli/RealNews-TheBigLie/RN_TBL_04.png" width="50%">
+
+RN_TBL_05<br>
+<img src="https://raw.githubusercontent.com/caddickzac/MisinformationSusceptibilityAndSleep/main/Measures/NewsTaskStimuli/RealNews-TheBigLie/RN_TBL_05.png" width="50%">
+
+RN_TBL_06<br>
+<img src="https://raw.githubusercontent.com/caddickzac/MisinformationSusceptibilityAndSleep/main/Measures/NewsTaskStimuli/RealNews-TheBigLie/RN_TBL_06.png" width="50%">
+
+RN_TBL_07<br>
+<img src="https://raw.githubusercontent.com/caddickzac/MisinformationSusceptibilityAndSleep/main/Measures/NewsTaskStimuli/RealNews-TheBigLie/RN_TBL_07.png" width="50%">
+
+RN_TBL_08<br>
+<img src="https://raw.githubusercontent.com/caddickzac/MisinformationSusceptibilityAndSleep/main/Measures/NewsTaskStimuli/RealNews-TheBigLie/RN_TBL_08.png" width="50%">
+
+RN_TBL_09<br>
+<img src="https://raw.githubusercontent.com/caddickzac/MisinformationSusceptibilityAndSleep/main/Measures/NewsTaskStimuli/RealNews-TheBigLie/RN_TBL_09.png" width="50%">
+
+RN_TBL_10<br>
+<img src="https://raw.githubusercontent.com/caddickzac/MisinformationSusceptibilityAndSleep/main/Measures/NewsTaskStimuli/RealNews-TheBigLie/RN_TBL_10.png" width="50%">
+
+RN_TBL_11<br>
+<img src="https://raw.githubusercontent.com/caddickzac/MisinformationSusceptibilityAndSleep/main/Measures/NewsTaskStimuli/RealNews-TheBigLie/RN_TBL_11.png" width="50%">
+
+RN_TBL_12<br>
+<img src="https://raw.githubusercontent.com/caddickzac/MisinformationSusceptibilityAndSleep/main/Measures/NewsTaskStimuli/RealNews-TheBigLie/RN_TBL_12.png" width="50%">
+
+RN_TBL_13<br>
+<img src="https://raw.githubusercontent.com/caddickzac/MisinformationSusceptibilityAndSleep/main/Measures/NewsTaskStimuli/RealNews-TheBigLie/RN_TBL_13.png" width="50%">
+
+RN_TBL_14<br>
+<img src="https://raw.githubusercontent.com/caddickzac/MisinformationSusceptibilityAndSleep/main/Measures/NewsTaskStimuli/RealNews-TheBigLie/RN_TBL_14.png" width="50%">
+
+RN_TBL_15<br>
+<img src="https://raw.githubusercontent.com/caddickzac/MisinformationSusceptibilityAndSleep/main/Measures/NewsTaskStimuli/RealNews-TheBigLie/RN_TBL_15.png" width="50%">
+
 
 
