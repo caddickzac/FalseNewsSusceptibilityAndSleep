@@ -19,6 +19,7 @@ News Information items are randomly ordered.
 
 ### Fake News: Covid
 
-![FN_C_01](Measures/NewsTaskStimuli/FakeNews-Covid/FN_C_01.png)
+![FN_C_01](Measures/NewsTaskStimuli/FakeNews-Covid/FN_C_01.png?raw=true)
+
 ![Figure 1](Figures%20and%20Tables/Figure%201.png?raw=true)
 Figures%20and%20Tables/Figure%201.png
