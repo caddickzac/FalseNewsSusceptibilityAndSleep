@@ -13,7 +13,7 @@ This measure has 60 news information items.
 
 ### Task Design
 
-News Information items are randomly ordered. 
+For each item participants answer two questions, 1) one pertaining to their belief in the veracity of the information and 2) their confidence in their judgment. All ratings are on a 0-100 scale. News Information items are randomly ordered. 
 
 ## Stimuli
 
