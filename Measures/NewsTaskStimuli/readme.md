@@ -16,7 +16,7 @@ This measure has 60 news information items.
 News Information items are randomly ordered. 
 
 ## Stimuli Question Text
-<img src"https://githubusercontent.com/caddickzac/MisinformationSusceptibilityAndSleep/main/Measures/NewsTaskStimuli/StimuliText/NewsItems.png" width="50%>
+<img src="https://raw.githubusercontent.com/caddickzac/MisinformationSusceptibilityAndSleep/main/Measures/NewsTaskStimuli/StimuliText/NewsItems.png" width="50%>
 
 ## Stimuli
 
@@ -217,12 +217,12 @@ RN_TBL_17<br>
 ### Attention Check Questions
 
 AC_01<br>
-<img src"https://githubusercontent.com/caddickzac/MisinformationSusceptibilityAndSleep/main/Measures/NewsTaskStimuli/AttentionCheck/AC01.png" width="50%>
+<img src="https://raw.githubusercontent.com/caddickzac/MisinformationSusceptibilityAndSleep/main/Measures/NewsTaskStimuli/AttentionCheck/AC01.png" width="50%>
 
 AC_02<br>
-<img src"https://githubusercontent.com/caddickzac/MisinformationSusceptibilityAndSleep/main/Measures/NewsTaskStimuli/AttentionCheck/AC02.png" width="50%>
+<img src="https://raw.githubusercontent.com/caddickzac/MisinformationSusceptibilityAndSleep/main/Measures/NewsTaskStimuli/AttentionCheck/AC02.png" width="50%>
 
 ### Attention Check Question Text 
-<img src"https://githubusercontent.com/caddickzac/MisinformationSusceptibilityAndSleep/main/Measures/NewsTaskStimuli/StimuliText/AC_Items.png" width="50%>
+<img src="https://raw.githubusercontent.com/caddickzac/MisinformationSusceptibilityAndSleep/main/Measures/NewsTaskStimuli/StimuliText/AC_Items.png" width="50%>
 Note: The order of the "100" and the "0" answers are flipped across the two attention check questions. 
 
