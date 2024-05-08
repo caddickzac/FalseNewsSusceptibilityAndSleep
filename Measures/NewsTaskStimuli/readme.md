@@ -227,5 +227,5 @@ AC_02<br>
 ### Attention Check Question Text 
 
 <img src="https://raw.githubusercontent.com/caddickzac/MisinformationSusceptibilityAndSleep/main/Measures/NewsTaskStimuli/StimuliText/AC_Items.png" width="50%">
-<br>Note: The order of the "100" and the "0" answers are flipped across the two attention check questions. 
+Note: The order of the "100" and the "0" answers are flipped across the two attention check questions. 
 
