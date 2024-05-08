@@ -63,3 +63,12 @@ FN_C_14<br>
 
 FN_C_15<br>
 <img src="https://raw.githubusercontent.com/caddickzac/MisinformationSusceptibilityAndSleep/main/Measures/NewsTaskStimuli/FakeNews-Covid/FN_C_15.png" width="50%">
+
+### Fake News: "The Big Lie"
+
+FN_TBL_01<br>
+<img src="https://raw.githubusercontent.com/caddickzac/MisinformationSusceptibilityAndSleep/main/Measures/NewsTaskStimuli/FakeNews-TheBigLie/FN_TBL_01.png" width="50%">
+
+FN_TBL_02<br>
+<img src="https://raw.githubusercontent.com/caddickzac/MisinformationSusceptibilityAndSleep/main/Measures/NewsTaskStimuli/FakeNews-TheBigLie/FN_TBL_02.png" width="50%">
+
