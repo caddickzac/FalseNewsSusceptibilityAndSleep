@@ -20,8 +20,46 @@ News Information items are randomly ordered.
 ### Fake News: Covid
 
 FN_C_01<br>
-<img src="https://raw.githubusercontent.com/caddickzac/MisinformationSusceptibilityAndSleep/main/Measures/NewsTaskStimuli/FakeNews-Covid/FN_C_01.png" width="50%" alt="Optional Image Alt Text">
+<img src="https://raw.githubusercontent.com/caddickzac/MisinformationSusceptibilityAndSleep/main/Measures/NewsTaskStimuli/FakeNews-Covid/FN_C_01.png" width="50%">
 
 FN_C_02<br>
-<img src="https://raw.githubusercontent.com/caddickzac/MisinformationSusceptibilityAndSleep/main/Measures/NewsTaskStimuli/FakeNews-Covid/FN_C_02.png" width="50%" alt="Optional Image Alt Text">
+<img src="https://raw.githubusercontent.com/caddickzac/MisinformationSusceptibilityAndSleep/main/Measures/NewsTaskStimuli/FakeNews-Covid/FN_C_02.png" width="50%">
 
+FN_C_03<br>
+<img src="https://raw.githubusercontent.com/caddickzac/MisinformationSusceptibilityAndSleep/main/Measures/NewsTaskStimuli/FakeNews-Covid/FN_C_03.png" width="50%">
+
+FN_C_04<br>
+<img src="https://raw.githubusercontent.com/caddickzac/MisinformationSusceptibilityAndSleep/main/Measures/NewsTaskStimuli/FakeNews-Covid/FN_C_04.png" width="50%">
+
+FN_C_05<br>
+<img src="https://raw.githubusercontent.com/caddickzac/MisinformationSusceptibilityAndSleep/main/Measures/NewsTaskStimuli/FakeNews-Covid/FN_C_05.png" width="50%">
+
+FN_C_06<br>
+<img src="https://raw.githubusercontent.com/caddickzac/MisinformationSusceptibilityAndSleep/main/Measures/NewsTaskStimuli/FakeNews-Covid/FN_C_06.png" width="50%">
+
+FN_C_07<br>
+<img src="https://raw.githubusercontent.com/caddickzac/MisinformationSusceptibilityAndSleep/main/Measures/NewsTaskStimuli/FakeNews-Covid/FN_C_07.png" width="50%">
+
+FN_C_08<br>
+<img src="https://raw.githubusercontent.com/caddickzac/MisinformationSusceptibilityAndSleep/main/Measures/NewsTaskStimuli/FakeNews-Covid/FN_C_08.png" width="50%">
+
+FN_C_09<br>
+<img src="https://raw.githubusercontent.com/caddickzac/MisinformationSusceptibilityAndSleep/main/Measures/NewsTaskStimuli/FakeNews-Covid/FN_C_09.png" width="50%">
+
+FN_C_10<br>
+<img src="https://raw.githubusercontent.com/caddickzac/MisinformationSusceptibilityAndSleep/main/Measures/NewsTaskStimuli/FakeNews-Covid/FN_C_10.png" width="50%">
+
+FN_C_11<br>
+<img src="https://raw.githubusercontent.com/caddickzac/MisinformationSusceptibilityAndSleep/main/Measures/NewsTaskStimuli/FakeNews-Covid/FN_C_11.png" width="50%">
+
+FN_C_12<br>
+<img src="https://raw.githubusercontent.com/caddickzac/MisinformationSusceptibilityAndSleep/main/Measures/NewsTaskStimuli/FakeNews-Covid/FN_C_12.png" width="50%">
+
+FN_C_13<br>
+<img src="https://raw.githubusercontent.com/caddickzac/MisinformationSusceptibilityAndSleep/main/Measures/NewsTaskStimuli/FakeNews-Covid/FN_C_13.png" width="50%">
+
+FN_C_14<br>
+<img src="https://raw.githubusercontent.com/caddickzac/MisinformationSusceptibilityAndSleep/main/Measures/NewsTaskStimuli/FakeNews-Covid/FN_C_14.png" width="50%">
+
+FN_C_15<br>
+<img src="https://raw.githubusercontent.com/caddickzac/MisinformationSusceptibilityAndSleep/main/Measures/NewsTaskStimuli/FakeNews-Covid/FN_C_15.png" width="50%">
