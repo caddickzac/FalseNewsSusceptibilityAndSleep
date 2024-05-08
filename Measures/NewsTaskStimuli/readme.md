@@ -169,7 +169,7 @@ RN_TBL_02<br>
 RN_TBL_03<br>
 <img src="https://raw.githubusercontent.com/caddickzac/MisinformationSusceptibilityAndSleep/main/Measures/NewsTaskStimuli/RealNews-TheBigLie/RN_TBL_03.png" width="50%">
 
-RN_TBL_04<br>
+RN_TBL_04 (This item is omitted from analysis)<br>
 <img src="https://raw.githubusercontent.com/caddickzac/MisinformationSusceptibilityAndSleep/main/Measures/NewsTaskStimuli/RealNews-TheBigLie/RN_TBL_04.png" width="50%">
 
 RN_TBL_05<br>
@@ -178,7 +178,7 @@ RN_TBL_05<br>
 RN_TBL_06<br>
 <img src="https://raw.githubusercontent.com/caddickzac/MisinformationSusceptibilityAndSleep/main/Measures/NewsTaskStimuli/RealNews-TheBigLie/RN_TBL_06.png" width="50%">
 
-RN_TBL_07<br>
+RN_TBL_07 (This item is omitted from analysis)<br>
 <img src="https://raw.githubusercontent.com/caddickzac/MisinformationSusceptibilityAndSleep/main/Measures/NewsTaskStimuli/RealNews-TheBigLie/RN_TBL_07.png" width="50%">
 
 RN_TBL_08<br>
@@ -204,6 +204,12 @@ RN_TBL_14<br>
 
 RN_TBL_15<br>
 <img src="https://raw.githubusercontent.com/caddickzac/MisinformationSusceptibilityAndSleep/main/Measures/NewsTaskStimuli/RealNews-TheBigLie/RN_TBL_15.png" width="50%">
+
+RN_TBL_16<br>
+<img src="https://raw.githubusercontent.com/caddickzac/MisinformationSusceptibilityAndSleep/main/Measures/NewsTaskStimuli/RealNews-TheBigLie/RN_TBL_16.png" width="50%">
+
+RN_TBL_17<br>
+<img src="https://raw.githubusercontent.com/caddickzac/MisinformationSusceptibilityAndSleep/main/Measures/NewsTaskStimuli/RealNews-TheBigLie/RN_TBL_17.png" width="50%">
 
 
 
