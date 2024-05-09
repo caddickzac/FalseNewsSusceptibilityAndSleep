@@ -21,7 +21,7 @@ News item stimuli used raw photos in addition to html+css for modification to cr
 
 ### Stimuli Question Text
 
-All stimuli items use the same question text and formatting<br>
+All stimuli items use the same question text and formatting, which ask partipants to make belief and confidence judgments for each news item.<br>
 <img src="https://raw.githubusercontent.com/caddickzac/MisinformationSusceptibilityAndSleep/main/Measures/NewsTaskStimuli/StimuliText/NewsItems.png" width="50%">
 
 ### Fake News: Covid-19
