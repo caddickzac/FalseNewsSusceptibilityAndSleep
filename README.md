@@ -11,6 +11,12 @@ Citation: Caddick, Z. A., Dieckmann, N.F., Shafer, B.M., McHill, A. W. (Under Re
 For help or more information contact [caddickzac@gmail.com](mailto:caddickzac@gmail.com).
 
 ## Stimuli
+- [News Task](https://github.com/caddickzac/FalseNewsSusceptibilityAndSleep/tree/main/Measures/NewsTaskStimuli): 60 news headlines with an accompanied image were curated using a format similar to social media websites. True news items were extracted from news websites (e.g., Reuters) and false news items were extracted from a mix of websites debunking false claims. The 60 items were equally divided by type (true vs false; 30 items) and domain (Covid-19, “The Big Lie” about the outcome of the 2020 election; 30 items). Participants rated their belief in the veracity of each question (“to what extent you believe the above headline represents accurate/true news?”) and a belief confidence question (“how confident are you in your assessment of the headlines’ truthfulness?”), both on a 0-100 visual analog scale. 
+- [Sleep Measure](https://github.com/caddickzac/FalseNewsSusceptibilityAndSleep/blob/main/Measures/SleepMeasure/Sleep%20Measure.png): Sleep and wake times for work and non-work days.
+- Cognitive Reflection Task (v2): Citation: Thomson, K.S. and D.M. Oppenheimer, Investigating an alternate form of the cognitive reflection test. Judgment and Decision making, 2016. 11(1): p. 99-113.
+- [Health Literacy](https://github.com/caddickzac/FalseNewsSusceptibilityAndSleep/tree/main/Measures/HealthLiteracy): Behavioral measure of health literacy. 
+- [News Task Debrief](https://github.com/caddickzac/FalseNewsSusceptibilityAndSleep/tree/main/Measures/NewsTaskDebrief): Participants were debriefed at the conclusion of the survey about the accuracy of each headline presented.
+- [Measure Scoring](https://github.com/caddickzac/FalseNewsSusceptibilityAndSleep/blob/main/Measures/All%20Measures.docx) See "All Measures.docx" for scoring information alongside each measure.
 
 ## R Scripts
 
