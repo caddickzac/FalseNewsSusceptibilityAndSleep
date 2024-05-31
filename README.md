@@ -16,7 +16,8 @@ For help or more information contact [caddickzac@gmail.com](mailto:caddickzac@gm
 - Cognitive Reflection Task (v2): Citation: Thomson, K.S. and D.M. Oppenheimer, Investigating an alternate form of the cognitive reflection test. Judgment and Decision making, 2016. 11(1): p. 99-113.
 - [Health Literacy](https://github.com/caddickzac/FalseNewsSusceptibilityAndSleep/tree/main/Measures/HealthLiteracy): Behavioral measure of health literacy. 
 - [News Task Debrief](https://github.com/caddickzac/FalseNewsSusceptibilityAndSleep/tree/main/Measures/NewsTaskDebrief): Participants were debriefed at the conclusion of the survey about the accuracy of each headline presented.
-- [Measure Scoring](https://github.com/caddickzac/FalseNewsSusceptibilityAndSleep/blob/main/Measures/All%20Measures.docx) See "All Measures.docx" for scoring information alongside each measure.
+- [Measure Scoring](https://github.com/caddickzac/FalseNewsSusceptibilityAndSleep/blob/main/Measures/All%20Measures.docx): See "All Measures.docx" for scoring information alongside each measure.
+- [Qualtrics Survey](https://github.com/caddickzac/FalseNewsSusceptibilityAndSleep/tree/main/Qualtrics): A copy of the Qualtrics survey has been made available for import. 
 
 ## R Scripts
 
