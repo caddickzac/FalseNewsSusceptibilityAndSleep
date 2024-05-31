@@ -26,5 +26,7 @@ For help or more information contact [caddickzac@gmail.com](mailto:caddickzac@gm
 
 ### Figure 1. Accuracy of correctly identifying news items as either true or false & confidence percentages across sleeping duration. Note: The red bar represents group medians and the dotted line means. Sample size for each group: 4-6n = 13, 6-7n = 28, 7-8n = 85, 8-9n = 69, 9-10n = 32. 
 
-<img src="https://raw.githubusercontent.com/caddickzac/FalseNewsSusceptibilityAndSleep/main/Figures/sleep_duration_combined_plot.png.png" width="50%">
+<img src="https://raw.githubusercontent.com/caddickzac/FalseNewsSusceptibilityAndSleep/main/Figures/sleep_duration_combined_plot.png" width="50%">
+
+
 
