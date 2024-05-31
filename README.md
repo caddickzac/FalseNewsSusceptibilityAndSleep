@@ -1,5 +1,3 @@
-Note: This repository is under development. 
-
 # Sleep and Susceptibility to False Information in the Digital Age
 
 Authors: [Caddick, Z. A.](https://orcid.org/0000-0002-3369-7727), [Dieckmann, N. F.](https://orcid.org/0000-0001-5061-9889), [Shafer, B. M.](https://orcid.org/0009-0004-4059-7849), [McHill, A. W.](https://orcid.org/0000-0002-9428-6884)
@@ -21,7 +19,11 @@ For help or more information contact [caddickzac@gmail.com](mailto:caddickzac@gm
 
 ## R Scripts
 
+Available upon request. 
+
 ## Data
+
+Available upon request. 
 
 ## Figures
 
