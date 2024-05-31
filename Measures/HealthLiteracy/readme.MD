@@ -1,0 +1,1 @@
+Citation: Shah, L.C., et al., Health literacy instrument in family medicine: the “newest vital sign” ease of use and correlates. The Journal of the American Board of Family Medicine, 2010. 23(2): p. 195-203.
