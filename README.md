@@ -4,7 +4,7 @@ Authors: [Caddick, Z. A.](https://orcid.org/0000-0002-3369-7727), [Dieckmann, N.
 
 Laboratory: [Sleep, Chronobiology, & Health Laboratory](https://sites.google.com/view/ohsusleepchronobiologylab/home)
 
-Citation: Caddick, Z. A., Dieckmann, N.F., Shafer, B.M., McHill, A. W. (Under Review). Sleep and Susceptibility to False Information in the Digital Age.
+Citation: Caddick, Z. A., Dieckmann, N.F., Shafer, B.M., McHill, A. W. (In Prep). Sleep and Susceptibility to False Information in the Digital Age.
 
 For help or more information contact [caddickzac@gmail.com](mailto:caddickzac@gmail.com).
 
