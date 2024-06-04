@@ -26,9 +26,9 @@ Available upon request.
 Available upon request. 
 
 ## Figures
-Figure 1. 
+Figure 1. STROBE diagram flow chart. 
 
-<img src="https://raw.githubusercontent.com/caddickzac/FalseNewsSusceptibilityAndSleep/main/Figures/strobe_diagram.png" width="50%">
+<img src="https://raw.githubusercontent.com/caddickzac/FalseNewsSusceptibilityAndSleep/main/Figures/strobe_diagram.jpg" width="50%">
 <br><br>
 
 Figure 2. Accuracy of correctly identifying news items as either true or false & confidence percentages across sleeping duration. Note: The red bar represents group medians and the dotted line means. Sample size for each group: 4-6<sub><i>n</i></sub> = 13, 6-7<sub><i>n</i></sub> = 28, 7-8<sub><i>n</i></sub> = 85, 8-9<sub><i>n</i></sub> = 69, 9-10<sub><i>n</i></sub> = 32.
