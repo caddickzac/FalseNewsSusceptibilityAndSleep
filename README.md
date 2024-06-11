@@ -26,8 +26,6 @@ Available upon request.
 Available upon request. 
 
 ## Publication Figures 
-
-## Figures
 Figure 1. Predictors for accurately identifying news items as true or false using mixed-effects modeling. Political identity denotes participants that self-identified as liberal (_n_=109) or conservative (_n_=118), news type denotes false vs real news items, and news domain denotes Covid-19 vs the 2020 US election news items. Predictors with an asterisk denote statistical significance (_p_<0.05) within the model. Sleep duration and social jetlag by news type (false vs real) interactions are highlighted in red as they were the primary hypotheses in the current investigation. Total variance explained using all predictors: sleep duration model _R_<sup>2</sup> = 22.67% & social jet lag model _R_<sup>2</sup> = 22.76%.
 
 <img src="https://raw.githubusercontent.com/caddickzac/FalseNewsSusceptibilityAndSleep/main/Figures/Identification_accuracy_models.png" width="50%">
