@@ -1,4 +1,4 @@
-Cognitive Reflection Test 2
+<h1>Cognitive Reflection Test 2</h1>
 
 Citation: Citation: Thomson, K.S. and D.M. Oppenheimer, Investigating an alternate form of the cognitive reflection test. Judgment and Decision making, 2016. 11(1): p. 99-113.
 
