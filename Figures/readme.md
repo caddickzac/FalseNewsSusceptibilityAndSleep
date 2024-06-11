@@ -1,3 +1,15 @@
+## Figures
+Figure 1. Predictors for accurately identifying news items as true or false using mixed-effects modeling. Political identity denotes participants that self-identified as liberal (n=109) or conservative (n=118), news type denotes false vs real news items, and news domain denotes Covid-19 vs the 2020 US election news items. Predictors with an asterisk denote statistical significance (p<0.05) within the model. Sleep duration and social jetlag by news type (false vs real) interactions are highlighted in red as they were the primary hypotheses in the current investigation. Total variance explained using all predictors: sleep duration model R2 = 22.67% & social jet lag model R2 = 22.76%.
+
+<img src="https://raw.githubusercontent.com/caddickzac/FalseNewsSusceptibilityAndSleep/main/Figures/Identification_accuracy_models.png" width="50%">
+<br><br>
+
+
+Figure 2. Predictors for confidence in accuracy of identifying news items as true or false using mixed-effects modeling. Participants could be confidently correct (accurately assessing something that is false as false or real as real) or confidently incorrect (inaccurately assessing something that is false as real or real as false). Political identity denotes participants that self-identified as liberal (n=109) or conservative (n=118), news type denotes false vs real news items, and news domain denotes Covid-19 vs the 2020 US election news items. Predictors with an asterisk denote statistical significance (p<0.05) within the model. Sleep duration and social jetlag by news type (false vs real) interactions are highlighted in red as they were the primary hypotheses in the current investigation. Total variance explained using all predictors, confidently correct: sleep duration model R2 = 13.54% & social jet lag model R2 = 13.71%; confidently incorrect: sleep duration model R2 = 16.20% & social jet lag model R2 = 15.56%.
+
+<img src="https://raw.githubusercontent.com/caddickzac/FalseNewsSusceptibilityAndSleep/main/Figures/Confidence_accuracy_models.png" width="50%">
+<br><br>
+
 ## Supplemental Figures
 Supplemental Figure 1. STROBE diagram flow chart. 
 
