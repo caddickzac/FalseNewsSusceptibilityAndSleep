@@ -24,10 +24,10 @@ If you usually eat 2,500 calories in a day, what percentage of your daily value 
 
 Q5. Using the image above...<br>
 Pretend that you are allergic to the following substances: penicillin, peanuts, latex gloves, and bee stings. Is it safe for you to eat this ice cream?<br>
-•	Yes
-•	No
-•	Maybe / Unsure
-•	Other [fill in the blank]
+•	Yes<br>
+•	No<br>
+•	Maybe / Unsure<br>
+•	Other [fill in the blank]<br>
 [Correct answer: no]
 
 [Note: Q6 is only shown if participant answers ‘no’ to Q5.]<br>
