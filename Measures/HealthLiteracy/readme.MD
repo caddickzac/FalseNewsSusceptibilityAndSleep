@@ -2,9 +2,12 @@ Citation: Shah, L.C., et al., Health literacy instrument in family medicine: the
 
 Instructions: The information shown in the image below is on the back of a container of a pint of ice cream. Use this image to answer the following questions.
 
+<img src="https://raw.githubusercontent.com/caddickzac/FalseNewsSusceptibilityAndSleep/main/Measures/HealthLiteracy/HL_Figure.png" width="50%">
+<br><br>
+
 Q1. Using the image above...
-If you eat the entire container, how many calories will you eat?
-[short answer input] [correct answer: 1,000]
+If you eat the entire container, how many calories will you eat?<br>
+<span style="color:gray;">[short answer input] [correct answer: 1,000]</span>
 
 Q2. Using the image above...
 If you are allowed to eat 60 grams of carbohydrates as a snack, how much ice cream could you have?
