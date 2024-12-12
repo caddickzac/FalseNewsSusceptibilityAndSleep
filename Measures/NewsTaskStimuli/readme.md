@@ -17,7 +17,7 @@ For each item participants answer two questions, 1) one pertaining to their beli
 
 ## Stimuli
 
-News item stimuli used raw photos in addition to html+css for modification to create a social media styled design. This meant adding news headlines below the images within a gray box and an "external link" style graphic next to the headline text as you might see on a social media website. See "All Measures.doc" for html+css code. 
+News item stimuli used raw photos in addition to html+css for modification to create a social media styled design. This meant adding news headlines below the images within a gray box and an "external link" style graphic next to the headline text as you might see on a social media website. See "All Measures.docx" for html+css code. 
 
 ### Stimuli Question Text
 
