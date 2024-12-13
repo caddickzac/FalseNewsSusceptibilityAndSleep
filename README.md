@@ -18,15 +18,16 @@ For help or more information contact [caddickzac@gmail.com](mailto:caddickzac@gm
 - [Qualtrics Survey](https://github.com/caddickzac/FalseNewsSusceptibilityAndSleep/tree/main/Qualtrics): A copy of the Qualtrics survey has been made available for import. 
 
 ## R Scripts
-- [View ReadMe for more information](https://github.com/caddickzac/FalseNewsSusceptibilityAndSleep/tree/main/R%20Scripts)
+- Note: The setup script imports data, loads relevant packages and presents a data dictionary for each of the uploaded datasets. The "Models" script must run before the "Figure 2 & 3" script is run.   
 - [Analysis & Figure Setup Script](https://github.com/caddickzac/FalseNewsSusceptibilityAndSleep/blob/main/R%20Scripts/SetupScript.R)
 - [Mixed-Effects Models](https://github.com/caddickzac/FalseNewsSusceptibilityAndSleep/blob/main/R%20Scripts/Models.R)
 - [Figure 2 & 3](https://github.com/caddickzac/FalseNewsSusceptibilityAndSleep/blob/main/R%20Scripts/Figures_2_3.R)
 - [Figures 4 & 5](https://github.com/caddickzac/FalseNewsSusceptibilityAndSleep/blob/main/R%20Scripts/Figures_4_5.R)
 
 ## Data
-
-Available upon request. 
+- Note: Item Level Data is at the level of a headline task item, whereas the Measure Level Data is the at level of each sub-headline measure (e.g., "real-news: Covid, fake-news: Covid, real-news: The Big Lie, fake-news: The Big Lie). For simplicity, derivation data is omitted but is available upon request (email: caddickzac@gmail.com). 
+- [Item Level Data](https://github.com/caddickzac/FalseNewsSusceptibilityAndSleep/blob/main/Data/AnalysisData_ItemLevel.csv)
+- [Measure Level Data](https://github.com/caddickzac/FalseNewsSusceptibilityAndSleep/blob/main/Data/AnalysisData_MeasureLevel.csv)
 
 ## Publication Figures 
 
