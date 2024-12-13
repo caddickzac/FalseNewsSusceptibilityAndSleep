@@ -1,5 +1,23 @@
 #-------------------------------------------------------------------------------------------------------------------------
 
+# Preview analysis dataset
+head(AnalysisData_MeasureLevel)
+# Output: 
+# A tibble: 6 × 25
+# Participant NewsMeas…¹ Sample Ratin…² Ratin…³ Socia…⁴ Socia…⁵ Chron…⁶ Sleep…⁷ Sleep…⁸ Sampl…⁹   CRT    HL   Age   Edu Gender NewsT…˟ NewsD…˟ NewsT…˟ NewsD…˟ Gende…˟ Pct_C…˟ Pct_U…˟ Pct_C…˟
+# <int> <chr>      <chr>    <dbl>   <dbl>   <dbl> <chr>     <dbl>   <dbl> <chr>     <dbl> <int> <int> <int> <int> <chr>  <chr>   <chr>     <dbl>   <dbl>   <dbl>   <dbl>   <dbl>   <dbl>
+# 1         333 Fake-Covid Conse…    0      1         0   0-1        25.5    7    7-8         0.5     4     6    42     6 Male   Fake    Covid      -0.5    -0.5     0.5   100       0      0   
+# 2         333 Fake-The … Conse…    3.33   0.933     0   0-1        25.5    7    7-8         0.5     4     6    42     6 Male   Fake    TBL        -0.5     0.5     0.5    93.3     0      0   
+# 3         333 Real-Covid Conse…   60      0.6       0   0-1        25.5    7    7-8         0.5     4     6    42     6 Male   Real    Covid       0.5    -0.5     0.5    60       0     40   
+# 4         333 Real-The … Conse…   86.7    0.867     0   0-1        25.5    7    7-8         0.5     4     6    42     6 Male   Real    TBL         0.5     0.5     0.5    86.7     0     13.3 
+# 5         334 Fake-Covid Conse…   26.9    0.867     0.5 0-1        27.9    4.71 4-6         0.5     4     6    57     7 Male   Fake    Covid      -0.5    -0.5     0.5    53.3    33.3   13.3 
+# 6         334 Fake-The … Conse…   29.1    0.733     0.5 0-1        27.9    4.71 4-6         0.5     4     6    57     7 Male   Fake    TBL        -0.5     0.5     0.5    46.7    26.7    6.67
+# # … with 1 more variable: Pct_Unconfidently_Incorrect <dbl>, and abbreviated variable names ¹​NewsMeasure, ²​Ratings_M, ³​Ratings_Scored, ⁴​SocialJetlag_ABS, ⁵​SocialJetlag_ABS_Binned,
+# #   ⁶​Chronotype, ⁷​SleepDurationAvg, ⁸​SleepDurationAvg_Binned, ⁹​SampleCoded, ˟​NewsType, ˟​NewsDomain, ˟​NewsTypeCoded, ˟​NewsDomainCoded, ˟​GenderCoded, ˟​Pct_Confidently_Correct,
+# #   ˟​Pct_Unconfidently_Correct, ˟​Pct_Confidently_Incorrect
+
+#-------------------------------------------------------------------------------------------------------------------------
+
 ##########################
 # Rating Accuracy Models #
 ##########################
