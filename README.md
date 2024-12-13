@@ -18,8 +18,11 @@ For help or more information contact [caddickzac@gmail.com](mailto:caddickzac@gm
 - [Qualtrics Survey](https://github.com/caddickzac/FalseNewsSusceptibilityAndSleep/tree/main/Qualtrics): A copy of the Qualtrics survey has been made available for import. 
 
 ## R Scripts
-
-Available upon request. 
+- [View ReadMe for more information](https://github.com/caddickzac/FalseNewsSusceptibilityAndSleep/tree/main/R%20Scripts)
+- [Analysis & Figure Setup Script](https://github.com/caddickzac/FalseNewsSusceptibilityAndSleep/blob/main/R%20Scripts/SetupScript.R)
+- [Mixed-Effects Models](https://github.com/caddickzac/FalseNewsSusceptibilityAndSleep/blob/main/R%20Scripts/Models.R)
+- [Figure 2 & 3](https://github.com/caddickzac/FalseNewsSusceptibilityAndSleep/blob/main/R%20Scripts/Figures_2_3.R)
+- [Figures 4 & 5](https://github.com/caddickzac/FalseNewsSusceptibilityAndSleep/blob/main/R%20Scripts/Figures_4_5.R)
 
 ## Data
 
